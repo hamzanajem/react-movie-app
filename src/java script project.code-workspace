@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "java script project",
+			"path": "../../Desktop/java script project"
+		},
+		{
+			"path": "../../hamza"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "quote generator"
+	}
+}
